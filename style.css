@@ -1,0 +1,25 @@
+h1 {
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 2px white;
+    font-weight:700;
+}
+body {
+    background-color: grey;
+}
+h3, p {
+    color: rgb(231, 160, 160);
+    text-shadow: 1px 1px 5px black;
+}
+p {
+    background-color: black;
+}
+h3 {
+    border-style: outset;
+    border-color: black;
+}
+section {
+    text-decoration-line: underline;
+}
+header, section {
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 4px solid black;
+}
+body {
+    background-color: rgb(94, 242, 244)
+}
+h3, p {
+    color: burlywood;
+    background-color:rgb(5, 134, 136);
+    text-shadow: 2px 2px 2px black;
+}
+h3 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+section {
+    font-family: cursive , 'Lucida Sans';
+    text-decoration: underline;
+}
+a:hover {
+    font-size: 20px;
+    color: hotpink;
+}
+article {
+    text-align: center;
+}
